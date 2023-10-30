@@ -1,0 +1,412 @@
+﻿File_Name,Bi-Rads,Mass,Micros,M_C,FindingsNotes,Lesion_Annotation_Status,MB_label,Abnormal_label
+22678622,1,,,0,normal,No annotation (Normal),0,0
+22678646,3,1,,1,nódulo,,1,1
+22678670,1,,,0,normal,No annotation (Normal),0,0
+22678694,3,1,,1,nódulo,,1,1
+22614074,5,1,1,1,nódulo QSE + micros,,1,1
+22614097,2,1,1,1,nodulo + micros,,0,1
+22614127,5,1,1,1,nódulo QSE  + micros,,1,1
+22614150,2,1,1,1,nódulo + micros ,,0,1
+50997434,2,,1,1,micro,,0,1
+50997461,4a,1,1,1,nodulo QSE + micros,,1,1
+50997488,2,,1,1,micro,,0,1
+50997515,4a,1,1,1,nodulo QSE + micros,,1,1
+24055445,4c,1,1,1,Nódulo + micros,,1,1
+24055464,4c,1,1,1,Nódulo + micros,,1,1
+24055483,4c,1,1,1,nódulo +micros,,1,1
+24055502,4c,1,1,1,Nódulo + micros,,1,1
+22580192,3,1,,1,nódulo benigno,,1,1
+22580218,1,,,0,normal,No annotation (Normal),0,0
+22580244,3,1,,1,nodulo benigno,,1,1
+22580270,1,,,0,normal,No annotation (Normal),0,0
+50998032,2,,1,1,micros + calcificação vasos,,0,1
+50998059,5,,1,1,micros,,1,1
+50998086,2,,1,1,micros + calcificação vasos,,0,1
+50998113,5,,1,1,micros,,1,1
+50997742,3,,1,1,micros,,1,1
+50997769,3,,1,1,micros,,1,1
+50997796,3,,1,1,micros,,1,1
+50997823,3,,1,1,micros,,1,1
+22670620,2,1,,1,nódulo QSE - já biopsado - fibroadenoma,,0,1
+22670643,1,,,0,normal,No annotation (Normal),0,0
+22670673,2,1,,1,nódulo QSE - já biopsado - fibroadenoma,,0,1
+22670703,1,,,0,normal,No annotation (Normal),0,0
+53581379,1,,,0,normal,No annotation (Normal),0,0
+53581406,6,1,,1,nodulo QSE,,1,1
+53581433,1,,,0,normal,No annotation (Normal),0,0
+53581460,6,1,,1,nodulo QSE ,,1,1
+24065833,2,,1,1,micros,,0,1
+24065860,2,,1,1,micros,,0,1
+24065887,2,,1,1,micros,,0,1
+24065914,2,,1,1,micros,,0,1
+24055877,2,,1,1,micro,,0,1
+24055904,2,,1,1,calcificações,,0,1
+24055931,2,,1,1,micro,,0,1
+24055958,2,,1,1,calcificações,,0,1
+53587427,2,,1,1,micro,,0,1
+53587454,2,,1,1,micros,,0,1
+53587481,2,,1,1,micros,,0,1
+53587508,2,,1,1,micro,,0,1
+51049462,2,,1,1,micros,,0,1
+51049489,2,,1,1,microcalcificações,,0,1
+51049516,2,,1,1,micros,,0,1
+51049543,2,,1,1,calcificações,,0,1
+51049628,2,,1,1,micros,,0,1
+51049655,2,,1,1,calcificações,,0,1
+51049682,2,,1,1,micros,,0,1
+51070197,2,,1,1,calcificações,,0,1
+53580611,2,,1,1,micros,,0,1
+53580638,3,,1,1,microcalcificações QSE - junto ao musculo peitoral,,1,1
+53580665,2,,1,1,micros,,0,1
+53580692,3,,1,1,microcalcificações QSE - junto ao musculo peitoral,,1,1
+53586960,2,1,1,1,pós-cirurgia - nódulo com regiao espiculada+ micros,,0,1
+53586987,2,,1,1,micros,,0,1
+53587014,2,1,1,1,pós-cirurgia - nódulo com regiao espiculada+ micros,,0,1
+53587041,2,,1,1,micros,,0,1
+51048891,2,,1,1,micros,,0,1
+51048918,2,,1,1,micros,,0,1
+51048945,2,,1,1,micros,,0,1
+51048972,2,,1,1,micros,,0,1
+20588458,2,,1,1,micros,,0,1
+20588510,2,,1,1,2 micros,,0,1
+20588536,5,1,1,1,nodulo QSE + micros,,1,1
+20588562,5,1,1,1,nodulo QSE + micros,,1,1
+22670809,4a,1,1,1,nódulo +  micros,,1,1
+22670832,2,,1,1,micros,,0,1
+22670855,5,1,1,1,nódulo +  duas calcificações,,1,1
+22670878,2,,1,1,micros,,0,1
+22678953,4a,,1,1,microcalcificações QSE;Cluster,,1,1
+22678980,2,,1,1,micros,,0,1
+22679008,4a,,1,1,microcalcificações QSE;Cluster,,1,1
+22679036,2,,1,1,micros,,0,1
+50998413,2,,1,1,micros,,0,1
+50998440,2,,1,1,micros,,0,1
+50998467,2,,1,1,micros,,0,1
+50998494,2,,1,1,micros,,0,1
+20587294,2,,1,1,micros,,0,1
+20587320,2,,1,1,micros,,0,1
+20587346,2,,1,1,micros,,0,1
+20587372,2,,1,1,micros,,0,1
+20587466,2,,1,1,micros,,0,1
+20587492,2,,1,1,micros,,0,1
+20587518,2,,1,1,micros,,0,1
+20587544,2,,1,1,micros,,0,1
+50996201,2,,1,1,micros,,0,1
+50996228,2,,1,1,micros,,0,1
+50993787,2,,1,1,calcificações - follow up,,0,1
+50993814,2,,1,1,calcificações,,0,1
+50993841,2,,1,1,calcificações - follow up,,0,1
+50993868,2,,1,1,calcificações,,0,1
+50993895,2,,1,1,calcificações - follow up,,0,1
+50993922,2,,1,1,calcificações,,0,1
+50993949,2,,1,1,calcificações - follow up,,0,1
+50993976,2,,1,1,calcificações,,0,1
+22614353,2,,1,1,micros,,0,1
+22614379,5,1,1,1,nódulo + micro,,1,1
+22614405,2,,1,1,micros,,0,1
+22614431,5,1,1,1,nódulo + micro,,1,1
+53587572,2,,1,1,calcificações benignas,,0,1
+53587599,2,,1,1,calcificações benignas,,0,1
+50996800,2,,1,1,micros,,0,1
+50996827,2,,1,1,micros,,0,1
+50996854,2,,1,1,micros,,0,1
+50996881,2,,1,1,micros,,0,1
+50993399,2,,1,1,micros,,0,1
+50993426,2,,1,1,micros,,0,1
+27829134,5,1,1,1,nódulo;micros,,1,1
+27829161,1,,,0,normal,no annotation (normal),0,0
+27829188,5,1,1,1,nódulo;micros,,1,1
+27829215,1,,,0,normal,no annotation (normal),0,0
+50997223,2,,1,1,micros,,0,1
+50997250,2,,1,1,micros,,0,1
+50997277,2,,1,1,micros,,0,1
+50997304,2,,1,1,micros,,0,1
+22670442,1,,,0,normal,No annotation (Normal),0,0
+22670465,5,1,1,1,nódulo + micros - QSE; densidade + micros - quadrantes internos; Cluster,,1,1
+22670488,1,,,0,normal,No annotation (Normal),0,0
+22670511,5,1,1,1,nódulo + micros - QSE; densidade + micros - quadrantes internos; Cluster,,1,1
+53581769,1,,,0,normal,No annotation (Normal),0,0
+53581796,1,,,0,normal,No annotation (Normal),0,0
+24065530,4c,1,,1,nódulo,,1,1
+24065557,2,,1,1,micros,,0,1
+24065584,4c,,,0,nódulo,,1,1
+24065611,2,,1,1,micros,,0,1
+53587104,2,,1,1,micros,,0,1
+53587131,2,,1,1,micros,,0,1
+30011484,2,,1,1,micros,,0,1
+30011507,4c,1,1,1,Nódulo QSI + micros,,1,1
+30011530,2,,1,1,micros,,0,1
+30011553,4c,1,1,1,Nódulo QSI + micros,,1,1
+24055573,2,,1,1,micros,,0,1
+24055600,4c,,1,1,distorção QII,,1,1
+24055627,2,,1,1,micros,,0,1
+24055654,4c,,1,1,distorção QII,,1,1
+24065680,2,,1,1,micros,,0,1
+24065707,5,1,1,1,nódulo QSE + micros,,1,1
+24065734,2,,1,1,micros,,0,1
+24065761,5,1,1,1,nódulo QSE + micros,,1,1
+50999432,5,1,1,1,nodulo QSE + 1 micro,,1,1
+50999459,5,1,,1,nodulo QSE,,1,1
+51048738,3,1,,1,fibroadenoma QII,,1,1
+51048765,3,1,,1,fibroadenoma QII,,1,1
+50998177,2,,1,1,calcificações,,0,1
+50998204,2,,1,1,micros,,0,1
+50998231,2,,1,1,2 calcificações,,0,1
+50998258,2,,1,1,micros,,0,1
+20588308,3,1,,1,nodulo QSI ,,1,1
+20588334,3,1,,1,nodulo QSI,,1,1
+22678787,2,1,1,1,nódulo + micros,,0,1
+22678810,2,,1,1,micros - follow up,,0,1
+22678833,2,1,1,1,nódulo + micros,,0,1
+22678856,2,,1,1,micros - follow up,,0,1
+22580341,2,1,1,1,macrocistos – nódulos + Micros,,0,1
+22580367,2,1,,1,macrocistos - nódulos,,0,1
+22580393,2,1,1,1,macrocistos – nódulos + Micros,,0,1
+22580419,2,1,,1,macrocistos - nódulos,,0,1
+24055149,5,,1,1,micros;Cluster,,1,1
+24055176,2,,1,1,micros,,0,1
+24055203,5,,1,1,micros;Cluster,,1,1
+20587994,6,1,1,1,nódulo + uma micro;Spiculated Region,,1,1
+20588020,2,,1,1,micros,,0,1
+20588046,6,1,1,1,Nódulo + uma micro; spiculated region,,1,1
+20588072,2,,1,1,micros,,0,1
+26933772,2,,1,1,micros,,0,1
+26933801,4b,,1,1,micros;Cluster,,1,1
+26933830,2,,1,1,micros,,0,1
+26933859,4b,,1,1,micros;Cluster,,1,1
+50995762,2,1,1,1,nodulo + micros,,0,1
+50995789,2,1,1,1,nodulo + micros,,0,1
+22670278,4c,1,,1,nódulo QSE,,1,1
+22670301,2,,1,1,micros,,0,1
+22670324,4c,1,,1,nódulo QSE,,1,1
+22670347,2,,1,1,1 micro,,0,1
+53582540,1,,,0,normal,No annotation (Normal),0,0
+53582567,1,,,0,normal,No annotation (Normal),0,0
+22427682,2,,1,1,micros ,,0,1
+22427705,5,1,1,1,nódulo + micros,,1,1
+22427728,2,,1,1,micros,,0,1
+22427751,5,1,1,1,nódulo + micros,,1,1
+22613624,2,,1,1,tres micros,,0,1
+22613650,6,1,1,1,nódulo + micros,,1,1
+22613676,2,,1,1,duas micros,,0,1
+22613702,6,1,1,1,nódulo + micros,,1,1
+24055274,5,1,1,1,nódulo mama + micros;Spiculated Region,,1,1
+24055328,3,,1,1,micros,,1,1
+24055355,5,1,1,1,nódulo mama + micros;Spiculated Region,,1,1
+24055382,3,,1,1,micros,,1,1
+53586361,1,,,0,normal follow up,No annotation (Normal),0,0
+53586388,1,,,0,normal follow up,No annotation (Normal),0,0
+53586415,1,,,0,normal follow up,No annotation (Normal),0,0
+53586442,1,,,0,normal follow up,No annotation (Normal),0,0
+30011647,2,,1,1,micros,,0,1
+30011674,5,1,1,1,Nódulo + micros,,1,1
+30011700,2,,1,1,micros,,0,1
+30011727,5,1,1,1,Nódulo +micros,,1,1
+53581860,1,,,0,normal - follow up - artefacto,No annotation (Normal),0,0
+53581887,2,,1,1,micro,,0,1
+53581914,1,,,0,normal - follow up,No annotation (Normal),0,0
+53581941,2,,1,1,micro,,0,1
+20588138,1,,,0,normal,No annotation (Normal),0,0
+20588164,1,,,0,normal,No annotation (Normal),0,0
+20588190,4b,1,,1,nodulo ,,1,1
+20588216,4b,1,,1,nodulo ,,1,1
+50996945,2,,1,1,microS,,0,1
+50996972,2,,1,1,follow up - calcificações,,0,1
+50996999,2,,1,1,micros,,0,1
+50997026,2,,1,1,follow up - calcificações ,,0,1
+50997053,1,,,0,normal,No annotation (Normal),0,0
+50997080,1,,,0,normal,No annotation (Normal),0,0
+50997107,2,,1,1,micros - follow up,,0,1
+50997134,2,,1,1,micros - follow up,,0,1
+20587758,3,1,,1,nódulo QSE,,1,1
+20587784,3,,1,1,Duas micros,,1,1
+20587810,3,1,,1,nódulo QSE ,,1,1
+20587836,3,,1,1,micro,,1,1
+50996056,2,,1,1,micros,,0,1
+50996083,2,,1,1,micros,,0,1
+50996110,2,,1,1,micros,,0,1
+50996137,2,,1,1,micros,,0,1
+53582395,1,,,0,normal - follow up,No annotation (Normal),0,0
+53582422,2,,1,1,micro - exame follow up,,0,1
+53582449,1,,,0,normal - follow up,No annotation (Normal),0,0
+53582476,2,,1,1,micro - exame follow up,,0,1
+50999094,2,,1,1,micros,,0,1
+50999121,1,,,0,normal,No annotation (Normal),0,0
+50999148,2,,1,1,micros,,0,1
+50999175,1,,,0,normal,No annotation (Normal),0,0
+50999246,2,,1,1,micros,,0,1
+50999273,1,,,0,normal,No annotation (Normal),0,0
+50999300,2,,1,1,micros,,0,1
+50999327,1,,,0,normal,No annotation (Normal),0,0
+50994535,2,,1,1,micros,,0,1
+50994562,2,,1,1,micros,,0,1
+50994589,2,,1,1,micros,,0,1
+50994616,2,,1,1,micros,,0,1
+22427840,5,1,1,1,nódulo + micros,,1,1
+22427864,2,,1,1,micro,,0,1
+22579730,5,1,1,1,2 nódulos + micros,,1,1
+22579754,2,,1,1,micros,,0,1
+30011798,2,,1,1,follow-up com micros,,0,1
+30011824,4b,,1,1,micros;Cluster,,1,1
+30011850,2,,1,1,follow up com micros,,0,1
+30318067,4b,,1,1,micros;Cluster,,1,1
+50996709,2,,1,1,micros,,0,1
+50996736,2,,1,1,micros,,0,1
+51049053,2,1,1,1,opacidade nodular + calcificação,,0,1
+51049080,2,,1,1,micros,,0,1
+51049107,2,1,1,1,3 opacidades nodulares  + calcificações,,0,1
+51049134,2,,1,1,micros,,0,1
+22614236,5,1,1,1,nódulo + micros,,1,1
+22614266,5,1,1,1,nódulo + micros,,1,1
+50994706,1,,,0,normal - follow up - artefacto,No annotation (Normal),0,0
+50994733,1,,,0,normal,No annotation (Normal),0,0
+50994760,1,,,0,normal - follow up - artefacto,No annotation (Normal),0,0
+50994787,1,,,0,normal,No annotation (Normal),0,0
+50994814,1,,,0,normal,No annotation (Normal),0,0
+50994841,4c,,1,1,micros,,1,1
+50994868,1,,,0,normal,No annotation (Normal),0,0
+50994895,4c,,1,1,micros,,1,1
+53586724,2,,1,1,micros - exame follow up,,0,1
+53586751,2,,1,1,micros - exame follow up - artefacto,,0,1
+53586778,2,,1,1,micros - exame follow up,,0,1
+53586805,2,,1,1,micros - exame follow up - artefacto,,0,1
+22614499,2,,1,1,micros,,0,1
+22614522,4a,1,1,1,nódulo QSE + micros,,1,1
+22614545,2,,1,1,micros,,0,1
+22614568,4a,1,1,1,nódulo QSE + micros,,1,1
+51049249,2,,1,1,micros,,0,1
+51049276,2,,1,1,micros,,0,1
+24058660,2,,1,1,densidade assimétrica mama esquerda + micros,,0,1
+24058686,4a,,,0,densidade assimétrica mama esquerda + micros,,1,1
+24058712,2,,1,1,densidade assimétrica mama esquerda + micros,,0,1
+24058738,4a,,,0,densidade assimétrica mama esquerda + micros,,1,1
+22613918,4a,,1,1,micros + Cluster,,1,1
+22613944,1,,,0,normal,No annotation (Normal),0,0
+22613970,4a,,1,1,micros + Cluster,,1,1
+22613996,1,,,0,normal,No annotation (Normal),0,0
+53580804,5,1,1,1,nódulo QIE + micros,,1,1
+53580831,2,,1,1,micros,,0,1
+53580858,5,1,1,1,nódulo QIE + micros,,1,1
+53580885,2,,1,1,micros,,0,1
+20587612,5,1,1,1,nódulo direita + micros,Spiculated Region,1,1
+20587638,2,,1,1,micros,,0,1
+20587664,5,1,1,1,nódulo direita + micros,,1,1
+20587690,2,,1,1,micros,,0,1
+24065380,2,,,0,densidade assimetrica TQS ,,0,1
+24065407,4c,,,0,densidade assimetrica TQS,,1,1
+24065434,2,,,0,densidade assimetrica TQS,,0,1
+24065461,4c,,,0,densidade assimetrica TQS ,,1,1
+53581237,1,,,0,normal,No annotation (Normal),0,0
+53581264,1,,,0,normal,No annotation (Normal),0,0
+22670094,6,1,1,1,nódulo (pós QT)+ micro1,Spiculated Region,1,1
+22670124,2,,1,1,micros,,0,1
+22670147,6,1,1,1,nódulo( pós QT) + 1micro,,1,1
+22670177,2,,1,1,micros,,0,1
+50993616,2,,1,1,micros,,0,1
+50993643,2,,1,1,micros,,0,1
+50993670,2,,1,1,micros,,0,1
+50993697,2,,1,1,micros,,0,1
+20587148,2,,1,1,calcificações,,0,1
+20587174,2,,1,1,follow up - calcificações,,0,1
+20587200,2,,1,1,calcificações,,0,1
+20587226,2,,1,1,follow up - calcificações,,0,1
+22580492,2,,1,1,densidade assimetrica QSE à esquerda,,0,1
+22580520,5,,1,1,densidade assimetrica QSE à esquerda,,1,1
+22580548,2,,1,1,densidade assimetrica QSE à esquerda,,0,1
+22580576,5,,1,1,densidade assimetrica QSE à esquerda,,1,1
+22579847,2,,1,1,micros,,0,1
+22579870,4c,,1,1,micros +calcifications+ Cluster,,1,1
+22579893,2,,1,1,micros,,0,1
+22579916,4c,,1,1,micros + calcifications+ Cluster,,1,1
+53582656,5,1,1,1,massa + calcificações,,1,1
+53582683,5,1,1,1,massa + calcificações,,1,1
+53582710,2,,1,1,calcificações,,0,1
+53582737,2,,1,1,calcificações cirurgia,,0,1
+53582764,2,,1,1,calcificações ,,0,1
+53582791,2,,1,1,calcificações cirurgia,,0,1
+53582818,2,,1,1,calcificações,,0,1
+22670978,4b,,1,1,micros TQS e QSE ; Cluster,,1,1
+22671003,4b,,1,1,micros TQS e QSE ; Cluster,,1,1
+53582304,1,,,0,normal,No annotation (Normal),0,0
+53582331,1,,,0,normal,No annotation (Normal),0,0
+20586908,2,1,1,1,nodulo mama direita + micros,,0,1
+20586934,5,1,1,1,nodulo esquerda + micros,Spiculated Region,1,1
+20586986,5,1,1,1,nodulo mama esquerda + micros,Spiculated Region,1,1
+20586960,2,1,1,1,2nodulos mama direita + micros,,0,1
+53587663,2,1,1,1,cc direita - calcificações + nodulo benigno - follow up,,0,1
+53587690,1,,,0,normal,No annotation (Normal),0,0
+53587717,2,,1,1,calcificações - follow up,,0,1
+53587744,1,,,0,normal,No annotation (Normal),0,0
+50998981,5,1,1,1,nódulo QSE + micros,,1,1
+50999008,5,1,1,1,nódulo QSE + micros,,1,1
+53586869,2,1,1,1,"nódulo QII, benigno + micros",,0,1
+53586896,2,1,1,1,"nódulo QII, benigno + micros",,0,1
+24054997,1,,,0,normal,No annotation (Normal),0,0
+24055024,2,,1,1,micros,,0,1
+24055051,1,,,0,normal,No annotation (Normal),0,0
+24055078,2,,1,1,micro,,0,1
+20587054,4c,,1,1,micros;Cluster,,1,1
+20587080,4c,,1,1,micros;Cluster,,1,1
+24065251,5,1,1,1,nódulo + micros QSE ,,1,1
+24065270,1,,,0,normal,No annotation (Normal),0,0
+24065289,5,1,1,1,nódulo + micros QSE ,,1,1
+24065308,1,,,0,normal,No annotation (Normal),0,0
+50998322,1,,,0,normal,No annotation (Normal),0,0
+50998349,1,,,0,normal,No annotation (Normal),0,0
+50996325,1,,,0,normal,No annotation (Normal),0,0
+50996352,4c,1,,1,nodulo ,,1,1
+50996379,1,,,0,normal,No annotation (Normal),0,0
+50996406,4c,1,,1,nodulo ,,1,1
+50997597,2,,1,1,micros e calcificação vasos - follow up,,0,1
+50997624,2,,1,1,micros - follow up,,0,1
+50997651,2,,1,1,micros e calcificação vasos - follow up,,0,1
+50997678,2,,1,1,micros - follow up,,0,1
+50995872,1,,,0,normal,No annotation (Normal),0,0
+50995899,1,,,0,normal,No annotation (Normal),0,0
+22580654,5,1,1,1,Nódulo + 1 micro,,1,1
+22580680,2,1,1,1,nodulo + duas micros,,0,1
+22580706,5,1,1,1,Nódulo + 1micro,,1,1
+22580732,2,1,1,1,nodulo + duas micros,,0,1
+50995963,2,,1,1,micros,,0,1
+50995990,2,,1,1,micros,,0,1
+20588654,2,,1,1,micros,,0,1
+20588680,3,1,,1,nodulo,,1,1
+50994110,2,,1,1,micros,,0,1
+50994137,1,,,0,normal - follow up,No annotation (Normal),0,0
+50994164,2,,1,1,micros,,0,1
+50994191,1,,,0,normal - follow up,No annotation (Normal),0,0
+50994273,4a,1,,1,nódulo ,,1,1
+50994300,2,,1,1,1 micro,,0,1
+50994327,2,,1,1,micros,,0,1
+50994354,4a,1,,1,nódulo ,,1,1
+50994381,2,,1,1,micros,,0,1
+50994408,2,1,1,1,pequeno nodulo e micro,,0,1
+53581124,1,,,0,normal,No annotation (Normal),0,0
+53581151,1,,,0,normal,No annotation (Normal),0,0
+20587902,3,1,1,1,nódulo + uma micro,,1,1
+20587928,3,1,1,1,nódulo + uma micro,,1,1
+53580979,1,,,0,normal,No annotation (Normal),0,0
+53581006,1,,,0,normal,No annotation (Normal),0,0
+53581033,1,,,0,normal,No annotation (Normal),0,0
+53581060,1,,,0,normal,No annotation (Normal),0,0
+50998580,2,,1,1,micros,,0,1
+50998607,1,,,0,normal,No annotation (Normal),0,0
+50998634,2,,,0,distorção do estroma QSE  - benigna + micros,,0,1
+50998661,1,,,0,normal,No annotation (Normal),0,0
+22678449,2,,1,1,calcificações,,0,1
+22678472,2,,1,1,calcificações,,0,1
+22678495,2,,1,1,calcificações,,0,1
+22678518,2,,1,1,calcificações,,0,1
+22580015,2,,1,1,micros ,,0,1
+22580038,5,1,1,1,nódulo + microcalcificações ,,1,1
+22580068,2,,1,1,micros,,0,1
+22580098,5,1,1,1,nódulo + microcalcificações,,1,1
+22613770,5,1,1,1,nódulo + microcalcificações,,1,1
+22613796,2,,1,1,micros,,0,1
+22613822,5,1,1,1,nódulo + microcalcificações,,1,1
+22613848,1,,,0,normal,No annotation (Normal),0,0
+24055725,2,,1,1,micros,,0,1
+24055752,2,,1,1,micros,,0,1
+24055779,2,,1,1,micros,,0,1
+24055806,2,,1,1,micros,,0,1
+,,,,,,,123,343
